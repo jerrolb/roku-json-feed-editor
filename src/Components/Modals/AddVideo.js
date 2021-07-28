@@ -73,8 +73,8 @@ const AddVideo = ({ onOk, onCancel }) =>
         <Input placeholder="https://i.vimeocdn.com/video/956860457.jpg"/>
       </Form.Item>
       <Form.Item
-        name={"cover"}
-        label="Cover"
+        name={"background"}
+        label="Background"
         rules={[
           {
             pattern: ".*https",

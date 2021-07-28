@@ -32,7 +32,6 @@ function App() {
   const [isRedoing, setIsRedoing] = useState(false);
   const [playlistPos, setPlaylistPos] = useState({});
   const [videoPos, setVideoPos] = useState({});
-  const [idToBg, setIdToBg] = useState({});
   const [loggedIn, setLoggedIn] = useState(false);
   const [loginFailed, setLoginFailed] = useState(false);
 
@@ -66,7 +65,6 @@ function App() {
     const feedToSave = feed;
     feedToSave.lastUpdated = feedToSave.lastUpdated.replace(/^.{10}/g, new Date().toISOString().substr(0, 10));
     formData.append("feed", objToUriEncoded(feed));
-    formData.append("idToBg", objToUriEncoded(idToBg));
     formData.append("token", "rxiWSWuP1pRlaG7OGOJBlR6IsojGPejO5ERM2h1xsIHjuoYuNqh3Lpx1cSfrDoxA");
 
     fetch("https://nolachurch.com/stream/write.php", {
@@ -113,6 +111,7 @@ function App() {
       "title": values.title,
       "releaseDate": relDateString,
       "thumbnail": values.thumbnail,
+      "background": values.background,
       "shortDescription": values.description,
       "content": {
         "dateAdded": dateAdded,
@@ -162,7 +161,6 @@ function App() {
     video.hours = time.hours;
     video.mins = time.mins;
     video.secs = time.secs;
-    video.cover = idToBg[video.id];
 
     setCurrVideo(video);
     setIsEditVisible(true);
@@ -171,13 +169,6 @@ function App() {
     const tmpFeed = feed;
     const shortFormVideos = feed.shortFormVideos;
     const id = relDateToId(values.releaseDate);
-
-    setIdToBg((prevState) => {
-      return {
-        ...prevState,
-        [id]: values.cover,
-      };
-    });
 
     for (let i = 0; i < shortFormVideos.length; ++i) {
       if (shortFormVideos[i].id === id) {
@@ -248,12 +239,6 @@ function App() {
     const playlists = feed.playlists;
     const id = relDateToId(values.releaseDate);
 
-    setIdToBg((prevState) => {
-      return {
-        ...prevState,
-        [id]: values.cover,
-      };
-    });
     tmpFeed.shortFormVideos.push(getVideoObj(values));
 
     for (let i = 0; i < playlists.length; ++i) {
@@ -467,7 +452,7 @@ function App() {
                 title: video.title,
                 description: video.shortDescription,
                 thumbnail: video.thumbnail,
-                background: `${ URL.BACKGROUNDS }/${ video.id }.jpg`,
+                background: video.background,
                 url: video.content.videos[0].url,
                 releaseDate: video.releaseDate,
                 duration: video.content.duration,
@@ -503,22 +488,11 @@ function App() {
     };
 
     if (!versions.length) {
-      fetchVersions();
-    } else if (!Object.keys(idToBg).length) {
       window.addEventListener("beforeunload", (e) => {
         e.preventDefault();
         e.returnValue = true;
       });
-      fetch("https://nolachurch.com/stream/id_to_bg.json", options)
-        .then((res) => res.json())
-        .then((res) => {
-          setIdToBg({
-            ...res,
-            place: "holder",
-          });
-          setFeed({});
-        })
-        .catch((err) => { console.log(err); });
+      fetchVersions();
     } else if (Object.keys(feed).length) {
       populate();
     } else {
@@ -603,7 +577,6 @@ function App() {
       { isRawVisible && <Raw
         onCancel={rawCancel}
         feed={feed}
-        idToBg={idToBg}
       />
       }
     </div>
