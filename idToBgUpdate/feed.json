@@ -1,0 +1,1310 @@
+{
+    "providerName": "NOLA Church",
+    "lastUpdated": "2021-07-22T14:40:57+07:00",
+    "language": "en-US",
+    "categories": [
+        {
+            "name": "Exposing Jesus",
+            "playlistName": "Exposing Jesus",
+            "order": "manual"
+        },
+        {
+            "name": "Radical",
+            "playlistName": "Radical",
+            "order": "manual"
+        },
+        {
+            "name": "WEDNESDAY Bible Studies",
+            "playlistName": "WEDNESDAY Bible Studies",
+            "order": "manual"
+        },
+        {
+            "name": "Vision 2021",
+            "playlistName": "Vision 2021",
+            "order": "manual"
+        },
+        {
+            "name": "Forgive",
+            "playlistName": "Forgive",
+            "order": "manual"
+        },
+        {
+            "name": "Authority",
+            "playlistName": "Authority",
+            "order": "manual"
+        },
+        {
+            "name": "Practice Makes Church",
+            "playlistName": "Practice Makes Church",
+            "order": "manual"
+        },
+        {
+            "name": "ROOTS",
+            "playlistName": "ROOTS",
+            "order": "manual"
+        }
+    ],
+    "playlists": [
+        {
+            "name": "Exposing Jesus",
+            "itemIds": [
+                "20210718",
+                "20210711",
+                "20210628",
+                "20210620",
+                "20210613",
+                "20210606",
+                "20210530",
+                "20210523",
+                "20210516",
+                "20210509",
+                "20210502",
+                "20210425",
+                "20210419",
+                "20210411"
+            ]
+        },
+        {
+            "name": "Radical",
+            "itemIds": [
+                "20210328",
+                "20210321",
+                "20210314",
+                "20210307",
+                "20210228",
+                "20210221",
+                "20210214",
+                "20210207",
+                "20210131",
+                "20210124",
+                "20210117"
+            ]
+        },
+        {
+            "name": "Vision 2021",
+            "itemIds": [
+                "20210110",
+                "20210103"
+            ]
+        },
+        {
+            "name": "Forgive",
+            "itemIds": [
+                "20201220",
+                "20201213"
+            ]
+        },
+        {
+            "name": "Authority",
+            "itemIds": [
+                "20201129",
+                "20201122",
+                "20201117",
+                "20201108"
+            ]
+        },
+        {
+            "name": "Practice Makes Church",
+            "itemIds": [
+                "20201025",
+                "20201018",
+                "20201011",
+                "20201004",
+                "20200927"
+            ]
+        },
+        {
+            "name": "ROOTS",
+            "itemIds": [
+                "20200920",
+                "20200913",
+                "20200906"
+            ]
+        },
+        {
+            "name": "WEDNESDAY Bible Studies",
+            "itemIds": [
+                "20210506",
+                "20210428",
+                "20210422",
+                "20210415",
+                "20210331",
+                "20210324",
+                "20210322",
+                "20210223",
+                "20210217",
+                "20210210",
+                "20201118",
+                "20201116",
+                "20201021",
+                "20201014",
+                "20201007",
+                "20200930",
+                "20200923",
+                "20200916",
+                "20200909"
+            ]
+        }
+    ],
+    "shortFormVideos": [
+        {
+            "id": "20200906",
+            "title": "Sermon 2 - Returning Family",
+            "releaseDate": "2020-09-06",
+            "thumbnail": "https://i.vimeocdn.com/video/953609689.jpg",
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/101.jpg",
+            "shortDescription": "Pastor Monte Young teaches us the importance of building our family on Jesus. This part 21 of our ROOTS series from 2020.",
+            "content": {
+                "dateAdded": "2020-09-12T14:40:57+07:00",
+                "duration": 3623,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/455331741.m3u8?s=dbcd833becb8c69c13f9eda9c20a153a32dd8557",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "20200913",
+            "title": "Sermon 3 - Returning Trust",
+            "releaseDate": "2020-09-13",
+            "thumbnail": "https://i.vimeocdn.com/video/956860457.jpg",
+            "shortDescription": "Pastor Monte Young teaches us what it means to truly trust Jesus… Who He Is, what He's done, and what He says.",
+            "content": {
+                "dateAdded": "2020-09-17T14:40:57+07:00",
+                "duration": 3546,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/457564267.m3u8?s=35c9a04454a5d265ad6a572b447e9ea786b08f35",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/102.jpg"
+        },
+        {
+            "id": "20200920",
+            "title": "Sermon 4 - Returning GOD",
+            "releaseDate": "2020-09-20",
+            "thumbnail": "https://i.vimeocdn.com/video/961031503.jpg",
+            "shortDescription": "Pastor Monte teaches us that Jesus wants to be in relationship with us, more than anything else.",
+            "content": {
+                "dateAdded": "2020-09-21T14:40:57+07:00",
+                "duration": 3857,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/459995615.m3u8?s=f297dd991e728ff03e6c4119f9f0d10f23307d26",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/103.jpg"
+        },
+        {
+            "id": "20200909",
+            "title": "Unpacking Return",
+            "releaseDate": "2020-09-09",
+            "thumbnail": "https://i.vimeocdn.com/video/956475369.jpg",
+            "shortDescription": "Pastor Monte Young and Pastor John Valverde unpack Returning Faith and Returning Family.",
+            "content": {
+                "dateAdded": "2020-09-17T14:40:57+07:00",
+                "duration": 4002,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/457335295.m3u8?s=61ebdfc9a33fe1c1d01de24ba5d953bfbeaed953",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/201.jpg"
+        },
+        {
+            "id": "20200916",
+            "title": "Wednesday Night Bible Study, Unpacking Returning Trust.",
+            "releaseDate": "2020-09-16",
+            "thumbnail": "https://i.vimeocdn.com/video/963242624.jpg",
+            "shortDescription": "Pastor Monte Young, Pastor John Valverde",
+            "content": {
+                "dateAdded": "2020-09-21T14:40:57+07:00",
+                "duration": 4358,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/459775611.m3u8?s=d76a5b21715aed6a14dcfac0dfa94b3d63823827",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/202.jpg"
+        },
+        {
+            "id": "20200923",
+            "title": "Unpacking Returning GOD",
+            "releaseDate": "2020-09-23",
+            "thumbnail": "https://i.vimeocdn.com/video/963229652.jpg",
+            "shortDescription": "Pastor John and Pastor Monte unpack the final sermon of our ROOTS series, Returning GOD.",
+            "content": {
+                "dateAdded": "2020-10-04T14:40:57+07:00",
+                "duration": 3761,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/461348217.m3u8?s=87c121536ac7f368abb07f09f527c37f4807e312",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/203.jpg"
+        },
+        {
+            "id": "20200930",
+            "title": "Unpacking Creative",
+            "releaseDate": "2020-09-30",
+            "thumbnail": "https://i.vimeocdn.com/video/967418598.jpg",
+            "shortDescription": "Pastor John Valverde and Pastor Monte Young unpack the first sermon from our Practice Makes Church series, Practice Makes Creative.",
+            "content": {
+                "dateAdded": "2020-10-04T14:40:57+07:00",
+                "duration": 3573,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/463793469.m3u8?s=287029fdc176cf443f9b17691d05cf222e8cd376",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/204.jpg"
+        },
+        {
+            "id": "20201007",
+            "title": "Unpacking Prayer",
+            "releaseDate": "2020-10-07",
+            "thumbnail": "https://i.vimeocdn.com/video/971302602.jpg",
+            "shortDescription": "Pastor John and Pastor Monte unpack Sunday's sermon, Practice Makes Prayer, digging deep into how we pray, and how often we should pray.",
+            "content": {
+                "dateAdded": "2020-10-12T14:40:57+07:00",
+                "duration": 3503,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/466003786.m3u8?s=0b43aa06b50b54ebceb74f785ad9e90709372916",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/205.jpg"
+        },
+        {
+            "id": "20201014",
+            "title": "Unpacking Discovery",
+            "releaseDate": "2020-10-14",
+            "thumbnail": "https://i.vimeocdn.com/video/975496263.jpg",
+            "shortDescription": "Pastor Monte Young and Pastor John Valverde unpack Discovery and dig deeper into Sunday's sermon from our Practice Makes Church series.",
+            "content": {
+                "dateAdded": "2020-10-23T14:40:57+07:00",
+                "duration": 4099,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/468374457.m3u8?s=734a7babe08c59c848b4207137be23c5a15b3687",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/206.jpg"
+        },
+        {
+            "id": "20201021",
+            "title": "Unpacking Community",
+            "releaseDate": "2020-10-21",
+            "thumbnail": "https://i.vimeocdn.com/video/980073624.jpg",
+            "shortDescription": "Pastor Monte & Chris Landeche unpack Community.",
+            "content": {
+                "dateAdded": "2020-10-23T14:40:57+07:00",
+                "duration": 3247,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/470818976.m3u8?s=336c937d8de4e7478f9768491f05a048d98887a6",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/207.jpg"
+        },
+        {
+            "id": "20201116",
+            "title": "Authority - Episode 1",
+            "releaseDate": "2020-11-16",
+            "thumbnail": "https://i.vimeocdn.com/video/989910681.jpg",
+            "shortDescription": "Understanding who Jesus is gives us access to His Authority. Pastor Monte and Pastor John unpack Colossians 2:6-11 tonight for Wednesday Bible Study.",
+            "content": {
+                "dateAdded": "2020-11-16T14:40:57+07:00",
+                "duration": 3373,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/476466425.m3u8?s=fd29b504320a7539bdee46dbb1084365e7cf95cf",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/812.jpg"
+        },
+        {
+            "id": "20201118",
+            "title": "Authority - Episode 2",
+            "releaseDate": "2020-11-18",
+            "thumbnail": "https://i.vimeocdn.com/video/1001392684.jpg",
+            "shortDescription": "The Work Jesus did is always enough! Pastor Monte and Pastor John unpack Acts 4:32-35 for Wednesday Bible Study.",
+            "content": {
+                "dateAdded": "2020-11-25T14:40:57+07:00",
+                "duration": 2404,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/481038491.m3u8?s=38f7dd419afb756779d063755ff235e3596baf49",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/209.jpg"
+        },
+        {
+            "id": "20210210",
+            "title": "You Asked For It! - How To Study the Bible",
+            "releaseDate": "2021-02-10",
+            "thumbnail": "https://i.vimeocdn.com/video/1058257403.jpg",
+            "shortDescription": "In this WBS, Pastor Monte and Pastor John answer your question from the previous week, and this week is How To Study the Bible.",
+            "content": {
+                "dateAdded": "2020-02-22T14:40:57+07:00",
+                "duration": 3192,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/510981977.m3u8?s=cc7b07646595261718a04de66ebdc4874679cd42",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/210.jpg"
+        },
+        {
+            "id": "20210217",
+            "title": "You Asked For It! - Healing Fear, Anxiety & Depression",
+            "releaseDate": "2021-02-17",
+            "thumbnail": "https://i.vimeocdn.com/video/1065018857.jpg",
+            "shortDescription": "In this WBS, Pastor Monte and Pastor John answer your question from the previous week, and this week is Healing Fear, Anxiety & Depression.",
+            "content": {
+                "dateAdded": "2020-02-22T14:40:57+07:00",
+                "duration": 3334,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/514390031.m3u8?s=fed6c6c71b5deefbf1b690f555fd307b9f720126",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/211.jpg"
+        },
+        {
+            "id": "20210223",
+            "title": "You Asked For It! - Discipleship",
+            "releaseDate": "2021-02-23",
+            "thumbnail": "https://i.vimeocdn.com/video/1071254911.jpg",
+            "shortDescription": "Ok, Jesus Commissioned every believer to \"go and make disciples,\" but what does that really mean, and how do we live this out on the daily?",
+            "content": {
+                "dateAdded": "2020-03-10T14:40:57+07:00",
+                "duration": 2695,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/517358472.m3u8?s=c2a64928b0de10e98c2f5be83500ae6ed71f4eea",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/212.jpg"
+        },
+        {
+            "id": "20210322",
+            "title": "You Asked For It! - Spiritual Gifts",
+            "releaseDate": "2021-03-22",
+            "thumbnail": "https://i.vimeocdn.com/video/1073594846.jpg",
+            "shortDescription": "Ps. Monte and Ps. John unpack the 9 Primary Spiritual Gifts, and how to effectively steward them within the body.",
+            "content": {
+                "dateAdded": "2020-03-10T14:40:57+07:00",
+                "duration": 3028,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/518302782.m3u8?s=aa5c2836ed7ae00fd96b20ca3aca81d9223e0015",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/213.jpg"
+        },
+        {
+            "id": "20210324",
+            "title": "GOD In Action | WBS Recap",
+            "releaseDate": "2021-03-24",
+            "thumbnail": "https://i.vimeocdn.com/video/1095065899.jpg",
+            "shortDescription": "Ps. John and Ps. Chris unpack Sunday’s sermon—Jesus rests from His Work in the Seat of all Power and all Authority, because He Is Fullness of GOD!",
+            "content": {
+                "dateAdded": "2020-03-29T14:40:57+07:00",
+                "duration": 1998,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/529142360.m3u8?s=95015de3c5556c9f7d6002ea242ce2a3ad5ca5b5",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/214.jpg"
+        },
+        {
+            "id": "20210331",
+            "title": "The Finished Work | WBS Recap",
+            "releaseDate": "2021-03-31",
+            "thumbnail": "https://i.vimeocdn.com/video/1106702899.jpg",
+            "shortDescription": "Pastors Matt & Alicia unpack the previous Sunday’s sermon. Jesus has already finished the work, but He's calling us to Greater Things!",
+            "content": {
+                "dateAdded": "2020-03-31T14:40:57+07:00",
+                "duration": 968,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/534654573.m3u8?s=97af77528e0241ad1ae1c4bf8ed4a563bc91de09",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/215.jpg"
+        },
+        {
+            "id": "20210415",
+            "title": "The Beginning | WBS Recap",
+            "releaseDate": "2021-04-15",
+            "thumbnail": "https://i.vimeocdn.com/video/1112491291.jpg",
+            "shortDescription": "Chris and Danny dive deeper into Sunday's sermon: Creation - The Beginning",
+            "content": {
+                "dateAdded": "2020-04-15T14:40:57+07:00",
+                "duration": 1800,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/537405135.m3u8?s=d25c7cfbbd6f99f58f09eecb2cd79cfdb220a075",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/216.jpg"
+        },
+        {
+            "id": "20210422",
+            "title": "From Chaos to Light | WBS Recap",
+            "releaseDate": "2021-04-22",
+            "thumbnail": "https://i.vimeocdn.com/video/1118193424.jpg",
+            "shortDescription": "Ps. John and Ps. Matt recap Sunday's sermon: Creation | From Chaos to Light",
+            "content": {
+                "dateAdded": "2020-04-22T14:40:57+07:00",
+                "duration": 1840,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/539979235.m3u8?s=fd8a8d88af58042dcee9d21453e5d8abf9addb9f",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/217.jpg"
+        },
+        {
+            "id": "20210428",
+            "title": "Environments | Recap",
+            "releaseDate": "2021-04-28",
+            "thumbnail": "https://i.vimeocdn.com/video/1124419980.jpg",
+            "shortDescription": "Ps. John and Chris recap Sunday's sermon: Creation - Environments",
+            "content": {
+                "dateAdded": "2020-04-28T14:40:57+07:00",
+                "duration": 2037,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/542977494.m3u8?s=5b24afa466cc1f7859ce467e8eb7135828cbafe3",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/218.jpg"
+        },
+        {
+            "id": "20210506",
+            "title": "Exceedingly TOV | Recap",
+            "releaseDate": "2021-05-06",
+            "thumbnail": "https://i.vimeocdn.com/video/1130328161.jpg",
+            "shortDescription": "Pastor John and Pastor Rachel recap Sunday's sermon: Creation - Exceedingly TOV",
+            "content": {
+                "dateAdded": "2020-05-06T14:40:57+07:00",
+                "duration": 2090,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/545790990.m3u8?s=ba13d9930ff57a2293c87c4cbe009e9d13014e6a",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/219.jpg"
+        },
+        {
+            "id": "20200927",
+            "title": "Sermon 1 - Practice Makes Creative",
+            "releaseDate": "2020-09-27",
+            "thumbnail": "https://i.vimeocdn.com/video/967510439.jpg",
+            "shortDescription": "Pastor Monte teaches us that worship Creates environments where Jesus can be Himself in our lives, and in the world around us.",
+            "content": {
+                "dateAdded": "2020-10-04T14:40:57+07:00",
+                "duration": 3565,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/463837965.m3u8?s=aee7ec3dedd4938d6efbba8ccc6f577aac9477aa",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/301.jpg"
+        },
+        {
+            "id": "20201004",
+            "title": "Sermon 2 - Practice Makes Prayer",
+            "releaseDate": "2020-10-04",
+            "thumbnail": "https://i.vimeocdn.com/video/1055708310.jpg",
+            "shortDescription": "Pastor Monte teaches us that prayer is where we rest in Who Jesus Is to us personally, and this connects us with the Peace of GOD.",
+            "content": {
+                "dateAdded": "2020-10-12T14:40:57+07:00",
+                "duration": 3514,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/464796868.m3u8?s=644f123fb5f54c7e2dde43f23559a5988baa12aa",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/302.jpg"
+        },
+        {
+            "id": "20201011",
+            "title": "Sermon 3 - Practice Makes Discovery",
+            "releaseDate": "2020-10-11",
+            "thumbnail": "https://i.vimeocdn.com/video/1055707772.jpg",
+            "shortDescription": "Pastor John and Chris Landeche (Community Director) discuss the power of known where you fit in GOD's Plan.",
+            "content": {
+                "dateAdded": "2020-10-12T14:40:57+07:00",
+                "duration": 1906,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/467141346.m3u8?s=ee14eb16c841faf401949eff695a7a386af96c81",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/303.jpg"
+        },
+        {
+            "id": "20201018",
+            "title": "Sermon 4 - Practice Makes Community",
+            "releaseDate": "2020-10-18",
+            "thumbnail": "https://i.vimeocdn.com/video/1055707410.jpg",
+            "shortDescription": "Pastor Monte teaches us that Community matures us,  and that effective relationships begin with our relationship with Jesus.",
+            "content": {
+                "dateAdded": "2020-10-23T14:40:57+07:00",
+                "duration": 2944,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/469538829.m3u8?s=ce3282de1fc24322564bf59dbb7ed0679695c154",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/304.jpg"
+        },
+        {
+            "id": "20201025",
+            "title": "Sermon 5 - Practice Makes Legacy",
+            "releaseDate": "2020-10-25",
+            "thumbnail": "https://i.vimeocdn.com/video/1055707025.jpg",
+            "shortDescription": "Pastor Monte teaches us the power of sharing what we've received from Jesus.",
+            "content": {
+                "dateAdded": "2020-11-16T14:40:57+07:00",
+                "duration": 2775,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/472003127.m3u8?s=fe6a4797c0ccc0c50ecfedc541a37f6c5163c985",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/305.jpg"
+        },
+        {
+            "id": "20201108",
+            "title": "Sermon 1 - Authority of Identity",
+            "releaseDate": "2020-11-08",
+            "thumbnail": "https://i.vimeocdn.com/video/1055706714.jpg",
+            "shortDescription": "Pastor Monte teaches us the power of accepting and submitting to Jesus' Authority.",
+            "content": {
+                "dateAdded": "2020-11-16T14:40:57+07:00",
+                "duration": 2475,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/478775199.m3u8?s=1863294e47aed46a18c9f242d83f5bc8b5b6f23e",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/401.jpg"
+        },
+        {
+            "id": "20201117",
+            "title": "Sermon 2 - Authority of His Work",
+            "releaseDate": "2020-11-17",
+            "thumbnail": "https://i.vimeocdn.com/video/1055705640.jpg",
+            "shortDescription": "Pastor Monte teaches us there's nothing left for you to do because He's already finished it!",
+            "content": {
+                "dateAdded": "2020-11-17T14:40:57+07:00",
+                "duration": 2656,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/479614612.m3u8?s=4189381caf54b512d9fdb56f6660888a7e04dea5",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/402.jpg"
+        },
+        {
+            "id": "20201122",
+            "title": "Sermon 3 - Authority of Generosity",
+            "releaseDate": "2020-11-22",
+            "thumbnail": "https://i.vimeocdn.com/video/1000714127.jpg",
+            "shortDescription": "Ps. John & Rachel teach us that generosity is who we are, because Jesus is the author of generosity.",
+            "content": {
+                "dateAdded": "2020-11-25T14:40:57+07:00",
+                "duration": 2083,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/482363857.m3u8?s=6e488789b486fc62a620a109fab26d73d8ab3b5b",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/403.jpg"
+        },
+        {
+            "id": "20201129",
+            "title": "Sermon 4 - Authority of His Word",
+            "releaseDate": "2020-11-29",
+            "thumbnail": "https://i.vimeocdn.com/video/1055703317.jpg",
+            "shortDescription": "Pastor Monte teaches us that there is no name like the name of Jesus, AND there's no Word like Him!",
+            "content": {
+                "dateAdded": "2020-12-05T14:40:57+07:00",
+                "duration": 2921,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/485183921.m3u8?s=a3a39d469dafb5fc85a0de3790c3e6e86455c98e",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/404.jpg"
+        },
+        {
+            "id": "20201213",
+            "title": "Sermon 1 - The Offended Heart",
+            "releaseDate": "2020-12-13",
+            "thumbnail": "https://i.vimeocdn.com/video/1055701812.jpg",
+            "shortDescription": "The greatest Gift GOD ever gave is OUR greatest responsibility!",
+            "content": {
+                "dateAdded": "2020-12-13T14:40:57+07:00",
+                "duration": 2936,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/490481383.m3u8?s=a81451e95118bf3ed2430d6b9d29ed52313824f2",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/501.jpg"
+        },
+        {
+            "id": "20201220",
+            "title": "Sermon 2 - A Forgiving Heart",
+            "releaseDate": "2020-12-20",
+            "thumbnail": "https://i.vimeocdn.com/video/1055701393.jpg",
+            "shortDescription": "Ps. Monte teaches us that Jesus is our strategic Offender AND He Is also our Great Defender.",
+            "content": {
+                "dateAdded": "2020-12-20T14:40:57+07:00",
+                "duration": 2535,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/493112269.m3u8?s=2148cf6aaaefcadccfdfe1bb95a124a9b94daa83",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/502.jpg"
+        },
+        {
+            "id": "20210103",
+            "title": "Vision 2021",
+            "releaseDate": "2021-01-03",
+            "thumbnail": "https://i.vimeocdn.com/video/1055701032.jpg",
+            "shortDescription": "Ps. Monte teaches us that Expansion is our vision for 2021.",
+            "content": {
+                "dateAdded": "2021-01-06T14:40:57+07:00",
+                "duration": 3923,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/496699006.m3u8?s=e0c8e92aecc9e87d1d87588590628d8604e97f99",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/601.jpg"
+        },
+        {
+            "id": "20210110",
+            "title": "Confronting Chaos",
+            "releaseDate": "2021-01-10",
+            "thumbnail": "https://i.vimeocdn.com/video/1055700362.jpg",
+            "shortDescription": "Ps. Monte teaches us our world is filled with chaos, but Jesus Is the Peace Who goes beyond our wildest expectation!",
+            "content": {
+                "dateAdded": "2021-01-12T14:40:57+07:00",
+                "duration": 3490,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/498994322.m3u8?s=1fa69307737c60b36de86f1d890c8f8c212d7372",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/602.jpg"
+        },
+        {
+            "id": "20210117",
+            "title": "Radical Belief",
+            "releaseDate": "2021-01-17",
+            "thumbnail": "https://i.vimeocdn.com/video/1055700092.jpg",
+            "shortDescription": "Jesus listed some very specific evidence of true belief. The question we should ask ourselves is do we truly trust Him, do we really rely on Him, and are we willing to obey Him?",
+            "content": {
+                "dateAdded": "2021-01-17T14:40:57+07:00",
+                "duration": 2375,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/501511551.m3u8?s=d830fda30b543597f4b783564795b77d2516353e",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/701.jpg"
+        },
+        {
+            "id": "20210124",
+            "title": "Radical Evidence",
+            "releaseDate": "2021-01-24",
+            "thumbnail": "https://i.vimeocdn.com/video/1055699718.jpg",
+            "shortDescription": "Demons are determined to take your Treasure, Life, and to create chaos in your world. But the Name of Jesus Is the highest Authority over everything that comes against us and in Him we have Authority.",
+            "content": {
+                "dateAdded": "2021-01-24T14:40:57+07:00",
+                "duration": 3240,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/504148979.m3u8?s=91f372d6f1fd01ee095b33c39c44e202762a9657",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/702.jpg"
+        },
+        {
+            "id": "20210131",
+            "title": "Radical Evidence Pt. 2",
+            "releaseDate": "2021-01-31",
+            "thumbnail": "https://i.vimeocdn.com/video/1055699361.jpg",
+            "shortDescription": "There's real Evidence of being a believer in Jesus. An aspect of this Evidence are New Languages that Jesus will speak through you. Let's unpack what happens when we receive the Gift of the Holy Ghost",
+            "content": {
+                "dateAdded": "2021-02-01T14:40:57+07:00",
+                "duration": 2869,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/506916960.m3u8?s=3da90c73cf00d12b03867517dfb1a492fe6279df",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/703.jpg"
+        },
+        {
+            "id": "20210207",
+            "title": "RADICAL EVIDENCE - Snakes and Poison",
+            "releaseDate": "2021-02-07",
+            "thumbnail": "https://i.vimeocdn.com/video/1055694201.jpg",
+            "shortDescription": "We all come under attack in our lives. In this sermon, Pastor Monte teaches us how to recognize snakes and poison the enemy will use to distract us, or even kill us Spiritually.",
+            "content": {
+                "dateAdded": "2021-02-07T14:40:57+07:00",
+                "duration": 2480,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/509535351.m3u8?s=d937555432578f89672e6da5e5dbf56ff3799420",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/704.jpg"
+        },
+        {
+            "id": "20210214",
+            "title": "RADICAL EVIDENCE - Hands of Restoration",
+            "releaseDate": "2021-02-14",
+            "thumbnail": "https://i.vimeocdn.com/video/1060724808.jpg",
+            "shortDescription": "If we truly believe, through the Authority of His Identity, we have the Authority to place our hands on sick people and they will be well.",
+            "content": {
+                "dateAdded": "2021-02-14T14:40:57+07:00",
+                "duration": 2516,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/512289005.m3u8?s=5ad85e97ca3b755c8600b84c71e930437e5a369a",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/705.jpg"
+        },
+        {
+            "id": "20210221",
+            "title": "RADICAL ACTION - Living Belief",
+            "releaseDate": "2021-02-21",
+            "thumbnail": "https://i.vimeocdn.com/video/1066693332.jpg",
+            "shortDescription": "Ps. Monte teaches us that belief in Jesus isn't just an idea--GOD is calling every believer to action, and to LIVE out their belief in ACTION!",
+            "content": {
+                "dateAdded": "2021-02-22T14:40:57+07:00",
+                "duration": 3184,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/515021775.m3u8?s=3ec12c78e11e20ae054eb1a66bdb87f18dbe98aa",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/706.jpg"
+        },
+        {
+            "id": "20210228",
+            "title": "RADICAL ACTION - Equipped For Action",
+            "releaseDate": "2021-02-28",
+            "thumbnail": "https://i.vimeocdn.com/video/1073417124.jpg",
+            "shortDescription": "Jesus provides all the Equipment we need to serve other believers and to shine His Light and Love to the lost. Pastor Monte unpacks 1 Corinthians 12, diving into the 9 Primary Spiritual Gifts.",
+            "content": {
+                "dateAdded": "2021-03-10T14:40:57+07:00",
+                "duration": 3276,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/518254056.m3u8?s=8384ffe7e2325f7535f3fd9548bb158da4c2a5e7",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/707.jpg"
+        },
+        {
+            "id": "20210307",
+            "title": "RADICAL ACTION - Community Action",
+            "releaseDate": "2021-03-07",
+            "thumbnail": "https://i.vimeocdn.com/video/1078537094.jpg",
+            "shortDescription": "Ps. Chris Landeche teaches us that Jesus uses our relationships with other people to connect them with His Presence.",
+            "content": {
+                "dateAdded": "2021-03-10T14:40:57+07:00",
+                "duration": 1328,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/520665516.m3u8?s=8547ff99d6589e0d788f3a8e5d83105ea458c4e1",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/708.jpg"
+        },
+        {
+            "id": "20210314",
+            "title": "RADICAL ACTION - GOD In Action",
+            "releaseDate": "2021-03-14",
+            "thumbnail": "https://i.vimeocdn.com/video/1084333574.jpg",
+            "shortDescription": "GOD displays His Action throughout His Word. Through history we see His mighty Arm and powerful Hand at work in our story. We see His Identity through the work of His Finger.",
+            "content": {
+                "dateAdded": "2021-03-19T14:40:57+07:00",
+                "duration": 1817,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/520665516.m3u8?s=8547ff99d6589e0d788f3a8e5d83105ea458c4e1",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/709.jpg"
+        },
+        {
+            "id": "20210321",
+            "title": "RADICAL ACTION - GOD In Action Pt. 2",
+            "releaseDate": "2021-03-21",
+            "thumbnail": "https://i.vimeocdn.com/video/1092013032.jpg",
+            "shortDescription": "Jesus wants to reveal Himself in you, but first you have to know Who He Is.",
+            "content": {
+                "dateAdded": "2021-03-23T14:40:57+07:00",
+                "duration": 3078,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/527509185.m3u8?s=f2d5b305de8ec38d520c892820c72c6ca71b7a3d",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/710.jpg"
+        },
+        {
+            "id": "20210328",
+            "title": "RADICAL - THE FINISHED WORK - Greater Things",
+            "releaseDate": "2021-03-28",
+            "thumbnail": "https://i.vimeocdn.com/video/1097088893.jpg",
+            "shortDescription": "Jesus has already finished the work, but He's calling you to Greater Things!",
+            "content": {
+                "dateAdded": "2021-03-29T14:40:57+07:00",
+                "duration": 2474,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/530037486.m3u8?s=e4caa527d7b9e57fba1c91704a384712fabdb1a1",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/711.jpg"
+        },
+        {
+            "id": "20210402",
+            "title": "RADICAL Communion",
+            "releaseDate": "2021-04-02",
+            "thumbnail": "https://i.vimeocdn.com/video/1107355212.jpg",
+            "shortDescription": "Communion is more than a religious ceremony, it's a celebration of His Finished Work, and our freedom from sin.",
+            "content": {
+                "dateAdded": "2021-04-02T14:40:57+07:00",
+                "duration": 2611,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/534942888.m3u8?s=04bc047d7aa438c085d87680aad60ad196ff8e51",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/712.jpg"
+        },
+        {
+            "id": "20210411",
+            "title": "Creation | The Beginning",
+            "releaseDate": "2021-04-11",
+            "thumbnail": "https://i.vimeocdn.com/video/1108803659.jpg",
+            "shortDescription": "Creation didn't just happen... it wasn't random... it Exposes GOD's Plan to bring you to Himself.",
+            "content": {
+                "dateAdded": "2021-04-11T14:40:57+07:00",
+                "duration": 2358,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/535582690.m3u8?s=c3fbed97a8b20798d9d4ed2e608e492b65e16994",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/801.jpg"
+        },
+        {
+            "id": "20210419",
+            "title": "Creation | From Chaos to Light",
+            "releaseDate": "2021-04-19",
+            "thumbnail": "https://i.vimeocdn.com/video/1114696918.jpg",
+            "shortDescription": "No matter what you're going through, Jesus Is there in your circumstance!",
+            "content": {
+                "dateAdded": "2021-04-19T14:40:57+07:00",
+                "duration": 2151,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/538391539.m3u8?s=e7ded1c2171ac280db980b79b325cbf12e5c78f6",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/802.jpg"
+        },
+        {
+            "id": "20210425",
+            "title": "Creation | Environments",
+            "releaseDate": "2021-04-25",
+            "thumbnail": "https://i.vimeocdn.com/video/1120837476.jpg",
+            "shortDescription": "Jesus is EVERYTHING you'll ever need to accomplish EVERYTHING he designed you to do and to be.",
+            "content": {
+                "dateAdded": "2021-04-25T14:40:57+07:00",
+                "duration": 3317,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/541363644.m3u8?s=81c2d2e731ffd5a95e58b70afc23e27624482374",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/803.jpg"
+        },
+        {
+            "id": "20210502",
+            "title": "Creation | Exceedingly TOV",
+            "releaseDate": "2021-05-02",
+            "thumbnail": "https://i.vimeocdn.com/video/1127060316.jpg",
+            "shortDescription": "GOD fashioned us in HIS Image, and in HIS Likeness!",
+            "content": {
+                "dateAdded": "2021-05-02T14:40:57+07:00",
+                "duration": 3088,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/544349572.m3u8?s=d047960b98975a176e5bdbea968a07352a03521f",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/804.jpg"
+        },
+        {
+            "id": "20210509",
+            "title": "Creation | Rest",
+            "releaseDate": "2021-05-09",
+            "thumbnail": "https://i.vimeocdn.com/video/1132964694.jpg",
+            "shortDescription": "Because GOD finished his work on the seventh day and rested, we can follow His example!",
+            "content": {
+                "dateAdded": "2021-05-09T14:40:57+07:00",
+                "duration": 3048,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/547221974.m3u8?s=cc73e26978134009282ea6288964261632555cc7",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/805.jpg"
+        },
+        {
+            "id": "20210516",
+            "title": "The Fall | Eve & Adam",
+            "releaseDate": "2021-05-16",
+            "thumbnail": "https://i.vimeocdn.com/video/1138990742.jpg",
+            "shortDescription": "Jesus will never abandon you… no matter what you think about Him. In fact, in the middle of your failures you’ll see Him clearly Exposed, ready to cover every sin with His Identity!",
+            "content": {
+                "dateAdded": "2021-05-16T14:40:57+07:00",
+                "duration": 3079,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/551257026.m3u8?s=fb01b81d7e758f0368475e98b660c9b80b347860",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/806.jpg"
+        },
+        {
+            "id": "20210523",
+            "title": "The Fall | Cain's Fall",
+            "releaseDate": "2021-05-23",
+            "thumbnail": "https://i.vimeocdn.com/video/1145490148.jpg",
+            "shortDescription": "No matter how far you've stumbled, Jesus will never abandon you, and He'll never stop reaching for you.",
+            "content": {
+                "dateAdded": "2021-05-23T14:40:57+07:00",
+                "duration": 2949,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/554070055.m3u8?s=bd7c5425e98c46107fcdc51f40b3d7c187f21a9d",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/807.jpg"
+        },
+        {
+            "id": "20210530",
+            "title": "The Fall | Breath Of Life",
+            "releaseDate": "2021-05-30",
+            "thumbnail": "https://i.vimeocdn.com/video/1151242056.jpg",
+            "shortDescription": "Jesus wants to give you the Breath of Life!",
+            "content": {
+                "dateAdded": "2021-05-30T14:40:57+07:00",
+                "duration": 2031,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/556928826.m3u8?s=41c75fad8c9bcb619c626d761e1a34d1f9b9ff8b",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/808.jpg"
+        },
+        {
+            "id": "20210606",
+            "title": "The Fall | Lamech's Fall",
+            "releaseDate": "2021-06-06",
+            "thumbnail": "https://i.vimeocdn.com/video/1160750075.jpg",
+            "shortDescription": "Did you know our choices directly impact the Legacy we leave? The good thing is, even in our stumblings, Jesus is still there!",
+            "content": {
+                "dateAdded": "2021-06-06T14:40:57+07:00",
+                "duration": 3142,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/559701018.m3u8?s=34dc5f4997ae9ca4c6880864b4a21bf3d5091e7c",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/809.jpg"
+        },
+        {
+            "id": "20210613",
+            "title": "RESCUE | Calling Noah",
+            "releaseDate": "2021-06-13",
+            "thumbnail": "https://i.vimeocdn.com/video/1162897026.jpg",
+            "shortDescription": "No matter what you're facing, no matter what surrounds you, Jesus has already provided Rescue!",
+            "content": {
+                "dateAdded": "2021-06-13T14:40:57+07:00",
+                "duration": 2397,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/562509791.m3u8?s=1cb34c51df2c441f1661738c15573b058f4501d2",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/810.jpg"
+        },
+        {
+            "id": "20210620",
+            "title": "RESCUE | Finding Favor",
+            "releaseDate": "2021-06-20",
+            "thumbnail": "https://i.vimeocdn.com/video/1170011213.jpg",
+            "shortDescription": "Our world can seem chaotic, but in the midst of our chaos Jesus reveals Himself and provides us Rescue.",
+            "content": {
+                "dateAdded": "2021-06-20T14:40:57+07:00",
+                "duration": 2289,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/565330478.m3u8?s=63a358a660103b9996181e15121ab99e7cf445c1",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/811.jpg"
+        },
+        {
+            "id": "20210628",
+            "title": "RESCUE | Walking Legacy",
+            "releaseDate": "2021-06-28",
+            "thumbnail": "https://i.vimeocdn.com/video/1176138490.jpg",
+            "shortDescription": "Our story may not always be what we want it to be, but if we make ourselves available to God He can use it for amazing things!",
+            "content": {
+                "dateAdded": "2021-06-28T14:40:57+07:00",
+                "duration": 3179,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/568466476.m3u8?s=ecaecb26b0867b086bb53699cba49d35a76fd552",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/812.jpg"
+        },
+        {
+            "id": "20210711",
+            "title": "RESCUE | Rescue Provided",
+            "releaseDate": "2021-07-11",
+            "thumbnail": "https://i.vimeocdn.com/video/1186684433.jpg",
+            "shortDescription": "Jesus has already provided EVERYTHING you need for the Rescue He planned for you before the beginning!",
+            "content": {
+                "dateAdded": "2021-07-11T14:40:57+07:00",
+                "duration": 3200,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/573720223.m3u8?s=a28dbe1db3fc66e59300f7791f35ec79e2c0d2a9",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/7112021_background.jpg"
+        },
+        {
+            "id": "20210718",
+            "title": "RESCUE | Preparing Rescue",
+            "releaseDate": "2021-07-18",
+            "thumbnail": "https://i.vimeocdn.com/video/1192526910.jpg",
+            "shortDescription": "Have you ever wondered why your relationship with Jesus can sometimes feel like you've hit a brick wall? Here's the good news... Jesus has already prepared everything you need to enter His Rescue!",
+            "content": {
+                "dateAdded": "2021-07-18T14:40:57+07:00",
+                "duration": 2383,
+                "videos": [
+                    {
+                        "url": "https://player.vimeo.com/external/576500377.m3u8?s=a9f5dcfa189b1d06460b06f0b8629ded9790b5b3",
+                        "quality": "FHD",
+                        "videoType": "HLS"
+                    }
+                ]
+            },
+            "background": "https://nolachurch.com/stream/appletv/backgrounds/7182021_background.jpg"
+        }
+    ]
+}
