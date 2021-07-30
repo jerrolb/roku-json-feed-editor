@@ -5,20 +5,10 @@ const layout = {
   labelCol: {
     span: 6,
   },
-  wrapperCol: {
-    // span: 30,
-  },
 };
 
 const validateMessages = {
   required: "${label} is required!", // eslint-disable-line no-template-curly-in-string
-  types: {
-    email: "${label} is not a valid email!", // eslint-disable-line no-template-curly-in-string
-    number: "${label} is not a valid number!", // eslint-disable-line no-template-curly-in-string
-  },
-  number: {
-    range: "${label} must be between ${min} and ${max}", // eslint-disable-line no-template-curly-in-string
-  },
 };
 
 const AddVideo = ({ onOk, onCancel }) =>
