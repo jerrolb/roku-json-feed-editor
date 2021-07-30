@@ -30,7 +30,7 @@ const Header = (props) => {
 
       {props.versions.length > 1 ?
         <Dropdown arrow={true} overlay={ menu } trigger={["click"]}>
-          <Button className="headerBtn" type="default">Version</Button>
+          <Button className="headerBtn" type="default">Backups</Button>
         </Dropdown>
         :
         <Button className="headerBtn" type="default" disabled={true}>Version</Button>

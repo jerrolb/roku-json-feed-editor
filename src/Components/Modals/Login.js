@@ -2,13 +2,13 @@ import React from "react";
 import { Alert, Button, Modal, Input, Form } from "antd";
 import { USER, PASS, SALT, PEPPER, hashCode } from "../../Controllers/Auth";
 
-const Login = ({ setLoggedIn, loginFailed, setLoginFailed }) => {
+const Login = ({ loginSuccess, loginFailed, setLoginFailed }) => {
   const onFinish = (values) => {
     const username = hashCode(SALT + values.username + PEPPER);
     const password = hashCode(PEPPER + values.password + SALT);
 
     if (username === USER && password === PASS) {
-      setLoggedIn(true);
+      loginSuccess();
     } else {
       setLoginFailed(true);
     }

@@ -8,8 +8,19 @@ import "./App.css";
 import "antd/dist/antd.css";
 import moment from "moment";
 import { cloneDeep } from "lodash";
+import Cookies from "universal-cookie";
 
 function App() {
+  const cookies = new Cookies();
+  const getCookie = () => {
+    return cookies.get("session");
+  };
+  const setCookie = () => {
+    cookies.set("session", true, {
+      expires: new Date(new Date().getTime() + 1800000)
+    });
+  };
+
   const [feed, setFeed] = useState({});
   const [feedToFetch, setFeedToFetch] = useState("feed.json");
   const [playlistss, setPlaylists] = useState([]);
@@ -32,7 +43,7 @@ function App() {
   const [isRedoing, setIsRedoing] = useState(false);
   const [playlistPos, setPlaylistPos] = useState({});
   const [videoPos, setVideoPos] = useState({});
-  const [loggedIn, setLoggedIn] = useState(false);
+  const [loggedIn, setLoggedIn] = useState(getCookie());
   const [loginFailed, setLoginFailed] = useState(false);
 
   const saveSuccess = () => {
@@ -74,6 +85,7 @@ function App() {
       .then((res) => {
         if (res.status === 200) {
           setIsSaveVisible(false);
+          setVersions([]);
           saveSuccess();
         } else {
           saveFailure();
@@ -406,6 +418,11 @@ function App() {
     cache: "no-cache",
   };
 
+  const loginSuccess = () => {
+    setCookie();
+    setLoggedIn(true);
+  };
+
   useEffect(() => {
     const addActivity = () => {
       const tmpActivity = activity;
@@ -522,7 +539,7 @@ function App() {
       }
       {!loggedIn &&
         <Login
-          setLoggedIn={setLoggedIn}
+          loginSuccess={loginSuccess}
           loginFailed={loginFailed}
           setLoginFailed={setLoginFailed}
         />
