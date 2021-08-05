@@ -20,6 +20,7 @@ const EditVideo = ({ onCancel, onOk, initialValues = {}}) => {
   const [thumbHeight, setThumbHeight] = useState(null);
   const [bgWidth, setBgWidth] = useState(null);
   const [bgHeight, setBgHeight] = useState(null);
+  const [thumbError, setThumbError] = useState(false);
   const onValuesChange = (changedValues) => {
     if (changedValues) {
       if (changedValues.background) {
@@ -52,6 +53,7 @@ const EditVideo = ({ onCancel, onOk, initialValues = {}}) => {
 
   const preview = (src, title, isThumb) =>
     <div style={{ width: "45%", margin: 5 }}>
+      {isThumb && thumbError && <p style={{ color: "red" }}>Thumbnail dimensions must be at least 800x450 in 16:9 ratio</p> }
       {isThumb ?
         `${ title }: ${ thumbWidth && thumbHeight ? `${ thumbWidth }x${ thumbHeight }` : "" }` :
         `${ title }: ${ bgWidth && bgHeight ? `${ bgWidth }x${ bgHeight }` : "" }`
@@ -65,9 +67,20 @@ const EditVideo = ({ onCancel, onOk, initialValues = {}}) => {
     </div>
   ;
 
+  const onFinish = (values) => {
+    var isThumbSizeValid = thumbWidth > 800 && thumbHeight > 450;
+    var isThumbDimensionValid = thumbWidth % 16 === 0 && thumbHeight % 9 === 0;
+
+    if (isThumbDimensionValid && isThumbSizeValid) {
+      onOk(values);
+    } else {
+      setThumbError(true);
+    }
+  };
+
   return (
     <Modal title="Edit Video" visible={true} footer={null} onCancel={onCancel} okText="Save">
-      <Form {...layout} onFinish={(values) => onOk(values)} validateMessages={validateMessages} initialValues={initialValues} onValuesChange={onValuesChange}>
+      <Form {...layout} onFinish={(values) => onFinish(values)} validateMessages={validateMessages} initialValues={initialValues} onValuesChange={onValuesChange}>
         <Form.Item
           name={"title"}
           label="Title"
